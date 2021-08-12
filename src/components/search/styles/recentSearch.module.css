@@ -1,0 +1,21 @@
+.container {
+    padding-top: 15px;
+    display: block;
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+.searchResult {
+    position: relative;
+    padding-right: 600px;
+    float: left;
+    width: 50%;
+}
+
+.heading {
+    font-size: 20px;
+    color: #f3ad0b;
+    margin: 0px;
+    padding: 0px 0px 20px 0px;
+}

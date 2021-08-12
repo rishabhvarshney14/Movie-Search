@@ -1,0 +1,19 @@
+.container {
+    width: 100%;
+    margin-bottom: 15px;
+    float: left;
+}
+
+.searchItem {
+    padding: 12.5px;
+    background: #644cad;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 16px;
+    display: inline-block;
+}
+
+.imageIcon {
+    width: 18px;
+    margin-right: 15px;
+}
